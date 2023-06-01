@@ -1,1 +1,1 @@
-worker: python repasse_branco.py
+worker: python main.py
