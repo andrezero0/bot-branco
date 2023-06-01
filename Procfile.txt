@@ -1,1 +1,1 @@
-worker: python main_bot_vips.py
+worker: python repasse_branco.py
